@@ -1,4 +1,4 @@
-local DhLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/sonic-x64/anxiety/refs/heads/main/dhmodule"))()
+local DhLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/kjompitokkdiso/stompeffects/refs/heads/main/module"))()
 local Services   = DhLibrary:Services()
 
 local LightingService   = game:GetService("Lighting")
